@@ -1,0 +1,16 @@
+.Parent-container {
+    display: flex;
+    width: 90%;
+    height: screen;
+}
+.Parent-container .left-child {
+ background-color: red;
+ width: 50%;
+ height:100%;
+ 
+}
+.Parent-container .right-child {
+    background-color: blue;
+    width: 50%;
+    height: 100%;
+}

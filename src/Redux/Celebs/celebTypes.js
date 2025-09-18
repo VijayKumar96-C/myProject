@@ -1,0 +1,2 @@
+export const LOAD_CELEBS = "LOAD_CELEBS"
+export const UPDATE_SCORE = "UPDATE_SCORE"
